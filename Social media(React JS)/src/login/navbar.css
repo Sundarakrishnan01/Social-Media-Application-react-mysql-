@@ -1,0 +1,25 @@
+.nav{
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    
+}
+.header{
+    overflow: hidden;
+    position: fixed;
+    /* bottom: 0; */
+    width:100%;
+    padding-bottom: 2%;
+}
+
+.avathar{
+    display: flex;
+    padding-left: 0%;
+    /* position:relative; */
+    align-content: end;
+    justify-content: space-between;
+    width:100%;
+    right: 0;
+}
+

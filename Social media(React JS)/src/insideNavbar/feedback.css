@@ -1,0 +1,19 @@
+.feedback1{
+    width: 40%;
+    margin-left:30%;
+    
+    /* margin-right: 2%; */
+    
+    align-items: center;
+    
+    display: flex;
+    flex-direction: column;
+    border-style: groove;
+    border-radius: 2%;
+}
+
+.feed1{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width:50%;
+}
